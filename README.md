@@ -27,7 +27,7 @@ Two minute verbal pitch. Here are some of the things that should be included in 
 Value Proposition & Target Demographic
 --------------------------------------
 
-**Beautiful digital scrapbooking with privacy & business model that's right for your family** for **28-40 year-old parents**.
+**Beautiful digital photojournaling with privacy & business model that's right for your family** for **28-40 year-old parents**.
 
 
 Without Further Ado
@@ -39,9 +39,9 @@ Let me introduce Entire.Life: an app you can use on any device, designed to lift
 
 Life moves fast. The persistent pulsing of the present; the nonstop nagging of Now and Next—it's easy to get lost. It's easy for all these precious points to pass without poignancy; to lose ourselves in an endless mess of rootless todo lists and other people's revelry. Your slog is beautiful. In context. Your slog is beautiful! Entire.Life gives you the perspective to perceive it. Entire.Life gives you the clearance for clarity.
 
-Over the past two years, with my cofounder and I working in our freetime with minimal budget, Entire.Life has still enjoyed steady growth, with about 1% of customers liking the free version so much they pay for an upgrade. Now we're ready to make it something more. Not just high-level milestone journaling to help you live more meaningfully, but also beautiful digital scrapbooking for your whole family.
+Over the past two years, with my cofounder and I working in our freetime with minimal budget, Entire.Life has still enjoyed steady growth, with about 1% of customers liking the free version so much they pay for an upgrade. Now we're ready to make it something more. Not just high-level milestone charting to help you live more meaningfully, but also beautiful digital photojournaling for your whole family.
 
-Right now, when you sign up at www.entire.life, you'll see a zoomed-out view of every week you've ever lived, and every week you're likely to live. You can add plans for the future and memories from the past, and see simple images on your chart to remind you of those plans and memories. You can also customize your chart with add-ons such as the paid Instagram add-on, which shows you the clutter of your Instagram feed in our beautiful timeline. In order to make Entire.Life also function as a digital scrapbook, it will only need a couple tweaks. 1. Photo uploading and 2. better sharing and collaboration.
+Right now, when you sign up at www.entire.life, you'll see a zoomed-out view of every week you've ever lived, and every week you're likely to live. You can add plans for the future and memories from the past, and see simple images on your chart to remind you of those plans and memories. You can also customize your chart with add-ons such as the paid Instagram add-on, which shows you the clutter of your Instagram feed in our beautiful timeline. In order to make Entire.Life also function as a photojournal, it will only need a couple tweaks. 1. Photo uploading and 2. better sharing and collaboration.
 
 There are a growing number of apps in this space. At one end of the spectrum are Google Photos and iCloud Photos; apps where all ten photos you took of your latté until you got one that was good enough all clutter your camera role, and the meaning gets choked out by noise. And yes, there's Facebook, with frustrations I mentioned formerly. And then there's a growing field of more direct competitors; apps focused on private photo sharing and keepsake creation for families. None of these have the meditatively spacious interface of Entire.Life, and none have Entire.Life's dual focus on adult self-actualization and familial fulfillment.
 
