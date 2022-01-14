@@ -1,3 +1,6 @@
+[![Watch a video of this pitch](https://cdn.loom.com/sessions/thumbnails/f32c16fe4ba148dc9db553bfe1ee3695-with-play.gif)](https://www.loom.com/share/f32c16fe4ba148dc9db553bfe1ee3695)
+
+
 The Pitch
 =========
 
